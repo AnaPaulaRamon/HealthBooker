@@ -25,6 +25,6 @@ npm start
 The website will be accessible at http://localhost:5173.
 
 ## Dependencies
-React
-React Router
+React,
+React-Router,
 Tailwind CSS
