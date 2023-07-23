@@ -14,7 +14,7 @@ patients can easily search for nearby healthcare providers, view their availabil
 To run MedAppoint locally on your machine, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your-username/medappoint.git,
+git clone https://github.com/AnaPaulaRamon/HealthBooker.git,
 cd frontend
 
 3. Install the required dependencies:
