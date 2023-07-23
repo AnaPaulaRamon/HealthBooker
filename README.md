@@ -14,13 +14,14 @@ patients can easily search for nearby healthcare providers, view their availabil
 To run MedAppoint locally on your machine, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your-username/medappoint.git
+git clone https://github.com/your-username/medappoint.git,
+
 cd frontend
 
-2. Install the required dependencies:
+3. Install the required dependencies:
 npm install
 
-3. Start the development server:
+4. Start the development server:
 npm start
 The website will be accessible at http://localhost:5173.
 
